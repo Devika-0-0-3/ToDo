@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Ignore favicon
+public/favicon.ico
+
+# Ignore icon images
+*.png
+*.ico
+*.svg
+
+# Ignore font files (if needed)
+*.woff
+*.ttf
